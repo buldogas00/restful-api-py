@@ -23,14 +23,14 @@ Docker (if you choose to run the application in a Docker container)
 
 ## Running the application without Docker
 
-**Install dependencies**:
+**Navigate to the directory of the API, and install dependencies**:
 ```sh
+cd <path_to_API>
 pip install -r requirements.txt
 ```
 
- **Navigate to the directory of the API, and run it**:
+ **Run it**:
 ```sh
-cd <path_to_API>
 python app.py
 ```
 
