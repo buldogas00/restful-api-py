@@ -19,7 +19,7 @@ Docker (if you choose to run the application in a Docker container)
 
 1. **Clone the Repository**:
    ```sh
-   git clone https://github.com/tices/restful-api-py.git
+   git clone https://github.com/buldogas00/restful-api-py.git
 
 ## Running the application without Docker
 
